@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelcralves)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelcralves-11&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelcralves-11&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelcralves-11&theme=dark)
