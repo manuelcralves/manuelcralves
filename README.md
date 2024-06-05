@@ -1,3 +1,5 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelcralves&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelcralves&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelcralves&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelcralves&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelcralves&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelcralves&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelcralves&theme=algolia&utcOffset=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manuelcralves&theme=algolia)
